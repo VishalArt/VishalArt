@@ -1,3 +1,4 @@
+![logo](https://github.com/VishalArt/VishalArt/blob/main/banner%20linkedin.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Gautam</h1>
 <h3 align="center">🌠 A smiling Web developer surrounded by colorful website and app icons. 😆🥰</h3>
 
