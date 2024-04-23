@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **vishal.business210@gmail.com 🤝**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-098TRE1iBOGcfrSbq5ZjKtR7cRwee4q/view?usp=drivesdk](https://drive.google.com/file/d/1-098TRE1iBOGcfrSbq5ZjKtR7cRwee4q/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-098TRE1iBOGcfrSbq5ZjKtR7cRwee4q/view?usp=drivesdk](https://drive.google.com/file/d/1-098TRE1iBOGcfrSbq5ZjKtR7cRwee4q/view?usp=drivesdk) 🕵️
 
-- ⚡ Fun fact **With each line of code, we're not just building websites and apps; we're shaping the future and fueling endless innovation!**
+- ⚡ Fun fact **With each line of code, we're not just building websites and apps; we're shaping the future and fueling endless innovation! 🌟🌟**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
