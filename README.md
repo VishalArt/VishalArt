@@ -2,7 +2,6 @@
 <h3 align="center">A smiling Web developer surrounded by colorful website and app icons.</h3>
 <img align="right" alt="coding"  width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRjNXY4dG5veWg2OGpqN21wbG5zczFlcmxkNTVkNXVlNXZ5MTZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalart&label=Profile%20views&color=0e75b6&style=flat" alt="vishalart" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalart" alt="vishalart" /></a> </p>
 
