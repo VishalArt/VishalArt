@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development and AI 📖**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/its_vishal.gautam](https://linktr.ee/its_vishal.gautam)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/its_vishal.gautam](https://linktr.ee/its_vishal.gautam) 🌳
 
 - 💬 Ask me about **React , Javascript and MongoDB **
 
