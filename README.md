@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Gautam</h1>
 <h3 align="center">A smiling Web developer surrounded by colorful website and app icons.</h3>
-<img align="right" alt="coding"  width="400" src="![image](https://github.com/VishalArt/VishalArt/assets/146162587/7e1a0c4a-4bf9-4fd5-8ed9-3378bf12fae4)
-">
+<img align="right" alt="coding"  width="400" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalart&label=Profile%20views&color=0e75b6&style=flat" alt="vishalart" /> </p>
 
