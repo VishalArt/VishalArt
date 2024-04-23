@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and AI**
+- 🌱 I’m currently learning **Web Development and AI 📖**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/its_vishal.gautam](https://linktr.ee/its_vishal.gautam)
 
-- 💬 Ask me about **React , Javascript and MongoDB**
+- 💬 Ask me about **React , Javascript and MongoDB **
 
-- 📫 How to reach me **vishal.business210@gmail.com**
+- 📫 How to reach me **vishal.business210@gmail.com 🤝**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-098TRE1iBOGcfrSbq5ZjKtR7cRwee4q/view?usp=drivesdk](https://drive.google.com/file/d/1-098TRE1iBOGcfrSbq5ZjKtR7cRwee4q/view?usp=drivesdk)
 
